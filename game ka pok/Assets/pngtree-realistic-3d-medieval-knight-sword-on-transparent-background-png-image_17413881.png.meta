@@ -1,0 +1,3328 @@
+fileFormatVersion: 2
+guid: 7ce6f665933cf6b4685c2a97856fbab4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2253744092341555199
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_0
+  - first:
+      213: 4218532045593107354
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_1
+  - first:
+      213: 2901304687721229030
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_2
+  - first:
+      213: -6425632427794836191
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_3
+  - first:
+      213: 6667790603875123607
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_4
+  - first:
+      213: -5287629384657290670
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_5
+  - first:
+      213: 8741392233316658737
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_6
+  - first:
+      213: 3250480326803955093
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_7
+  - first:
+      213: -4650949097799738509
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_8
+  - first:
+      213: 5375457381910253815
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_9
+  - first:
+      213: -5461710606514963293
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_10
+  - first:
+      213: -69548232659444534
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_11
+  - first:
+      213: -6628855239048642504
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_12
+  - first:
+      213: -910251783807256391
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_13
+  - first:
+      213: -1826907857828682936
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_14
+  - first:
+      213: 6855447763277221842
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_15
+  - first:
+      213: -5333824987082374834
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_16
+  - first:
+      213: -2212822020536202866
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_17
+  - first:
+      213: 8369332318822637157
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_18
+  - first:
+      213: 9069720930176001323
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_19
+  - first:
+      213: 1736292529185567055
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_20
+  - first:
+      213: 4480779866951291128
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_21
+  - first:
+      213: -4214964038047553005
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_22
+  - first:
+      213: 3742688325199300303
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_23
+  - first:
+      213: 1438174950841443364
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_24
+  - first:
+      213: -6644703073532110774
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_25
+  - first:
+      213: -307562460696848053
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_26
+  - first:
+      213: -688597101604858160
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_27
+  - first:
+      213: -1994308368704955793
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_28
+  - first:
+      213: -468086830640429377
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_29
+  - first:
+      213: 881131244272434537
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_30
+  - first:
+      213: 8220117643300653038
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_31
+  - first:
+      213: -8330292188488345744
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_32
+  - first:
+      213: -6457677029683616600
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_33
+  - first:
+      213: 3556893203498807926
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_34
+  - first:
+      213: -6139824244374114474
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_35
+  - first:
+      213: 5616995578040727064
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_36
+  - first:
+      213: 8445969693478712441
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_37
+  - first:
+      213: 4741957013502038105
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_38
+  - first:
+      213: -5400307552828873546
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_39
+  - first:
+      213: -131684338427858923
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_40
+  - first:
+      213: -7389251954979468823
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_41
+  - first:
+      213: 1778190861876612467
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_42
+  - first:
+      213: -8324736927505313204
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_43
+  - first:
+      213: 3703750480305477815
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_44
+  - first:
+      213: -6517590931811627656
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_45
+  - first:
+      213: -2106935254657100332
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_46
+  - first:
+      213: -1886707401573911934
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_47
+  - first:
+      213: -7216091510781570534
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_48
+  - first:
+      213: -7657384995317244106
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_49
+  - first:
+      213: 370898068891627874
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_50
+  - first:
+      213: 8162912638877169683
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_51
+  - first:
+      213: 4714303853266922268
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_52
+  - first:
+      213: 4761739237618282425
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_53
+  - first:
+      213: -8049938244293467819
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_54
+  - first:
+      213: -59694311402315722
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_55
+  - first:
+      213: 3974226108078406480
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_56
+  - first:
+      213: 7294432629749585650
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_57
+  - first:
+      213: 337783578737331030
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_58
+  - first:
+      213: 1911980135347719608
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_59
+  - first:
+      213: -5004122612256670685
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_60
+  - first:
+      213: -3037641539114350376
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_61
+  - first:
+      213: 1354829829856183228
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_62
+  - first:
+      213: 6218908152713754258
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_63
+  - first:
+      213: -1402324142797544105
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_64
+  - first:
+      213: -2485535416529094152
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_65
+  - first:
+      213: 1418504588583932857
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_66
+  - first:
+      213: -7426217682016140956
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_67
+  - first:
+      213: 9023746282384902218
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_68
+  - first:
+      213: -1126461757088687307
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_69
+  - first:
+      213: 4001145046114197137
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_70
+  - first:
+      213: -3541917196241721407
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_71
+  - first:
+      213: -2686608574520121462
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_72
+  - first:
+      213: -2782007808115002061
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_73
+  - first:
+      213: 6747697858517816588
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_74
+  - first:
+      213: 3970014380732392175
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_75
+  - first:
+      213: 494186032799089504
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_76
+  - first:
+      213: -3979744225989097866
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_77
+  - first:
+      213: -8950938098155003925
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_78
+  - first:
+      213: 7929617058201864070
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_79
+  - first:
+      213: -2672941793483285649
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_80
+  - first:
+      213: 6573240578674783538
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_81
+  - first:
+      213: 5479980027288203691
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_82
+  - first:
+      213: 676005658075244921
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_83
+  - first:
+      213: 7032189999257040710
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_84
+  - first:
+      213: 4844211449701671102
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_85
+  - first:
+      213: -6897354244860172001
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_86
+  - first:
+      213: 4677339878889530476
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_87
+  - first:
+      213: 3173793014186107683
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_88
+  - first:
+      213: 2186877638763063911
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_89
+  - first:
+      213: -666108961996390820
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_90
+  - first:
+      213: -1271825213028453170
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_91
+  - first:
+      213: 4920095629932764243
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_92
+  - first:
+      213: 466745978786944034
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_93
+  - first:
+      213: 841688679289845158
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_94
+  - first:
+      213: -8456005133539004837
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_95
+  - first:
+      213: 6485813281157675403
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_96
+  - first:
+      213: 2978545810909680440
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_97
+  - first:
+      213: -4481605218649140298
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_98
+  - first:
+      213: -2680125525907578668
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_99
+  - first:
+      213: 4247009377822025569
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_100
+  - first:
+      213: 740769741908167611
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_101
+  - first:
+      213: -5053612042645023619
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_102
+  - first:
+      213: 1204493669314473170
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_103
+  - first:
+      213: 7986350048809030218
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_104
+  - first:
+      213: 4330912924863366029
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_105
+  - first:
+      213: 6358811587517769219
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_106
+  - first:
+      213: 8894558054171794050
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_107
+  - first:
+      213: 8940578843704442007
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_108
+  - first:
+      213: 7590849283820044734
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_109
+  - first:
+      213: 2714384984487043264
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_110
+  - first:
+      213: -4277491525367771565
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_111
+  - first:
+      213: 3914086127138442907
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_112
+  - first:
+      213: 3903987378145345531
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_113
+  - first:
+      213: -5949138390114775063
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_114
+  - first:
+      213: -1288492842025731865
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_115
+  - first:
+      213: 3181074558154710607
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_116
+  - first:
+      213: -871791947288728958
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_117
+  - first:
+      213: 5676849272887924594
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_118
+  - first:
+      213: -7804659587369933968
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_119
+  - first:
+      213: -8048412680213194971
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_120
+  - first:
+      213: -6335598082044142986
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_121
+  - first:
+      213: -5035596379692122393
+    second: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100b85950b719b0e0800000000000000
+      internalID: -2253744092341555199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bdd237b8c3b8a30800000000000000
+      internalID: 4218532045593107354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaacc0ed31834820800000000000000
+      internalID: 2901304687721229030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125de04f95193d6a0800000000000000
+      internalID: -6425632427794836191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7910aac0a30c88c50800000000000000
+      internalID: 6667790603875123607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_5
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ab597f6119e96b0800000000000000
+      internalID: -5287629384657290670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_6
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ea23d1ce9af4970800000000000000
+      internalID: 8741392233316658737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_7
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d9b8ca2a60c1d20800000000000000
+      internalID: 3250480326803955093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_8
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b1935ff62847fb0800000000000000
+      internalID: -4650949097799738509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_9
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0130a2206799a40800000000000000
+      internalID: 5375457381910253815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_10
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac31b8042b1434b0800000000000000
+      internalID: -5461710606514963293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_11
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accd399304ae80ff0800000000000000
+      internalID: -69548232659444534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_12
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2397
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830c40108439104a0800000000000000
+      internalID: -6628855239048642504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8b00a43d22e53f0800000000000000
+      internalID: -910251783807256391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84360c09bf485a6e0800000000000000
+      internalID: -1826907857828682936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_15
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df82624b61732f50800000000000000
+      internalID: 6855447763277221842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_16
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e414ade1f627af5b0800000000000000
+      internalID: -5333824987082374834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_17
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8907caa81a7a41e0800000000000000
+      internalID: -2212822020536202866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_18
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e9e9eb667d52470800000000000000
+      internalID: 8369332318822637157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_19
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25e01fe12f1edd70800000000000000
+      internalID: 9069720930176001323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_20
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4135442bdc881810800000000000000
+      internalID: 1736292529185567055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f09a5e7c8dee2e30800000000000000
+      internalID: 4480779866951291128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_22
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a212b0a807185c0800000000000000
+      internalID: -4214964038047553005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_23
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 157
+        width: 1574
+        height: 2180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc68180c333b0f330800000000000000
+      internalID: 3742688325199300303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_24
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424e4cd7f7c65f310800000000000000
+      internalID: 1438174950841443364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_25
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a481c2082c549c3a0800000000000000
+      internalID: -6644703073532110774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_26
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2162
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b495bef42915bbbf0800000000000000
+      internalID: -307562460696848053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d69a7d959c9176f0800000000000000
+      internalID: -688597101604858160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_28
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 2162
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a90ceda1bc254e0800000000000000
+      internalID: -1994308368704955793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_29
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb683afe1850189f0800000000000000
+      internalID: -468086830640429377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_30
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d3b5fb2386a3c00800000000000000
+      internalID: 881131244272434537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_31
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2111
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee74bdcc179b31270800000000000000
+      internalID: 8220117643300653038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_32
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2028
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077d0fde36bd46c80800000000000000
+      internalID: -8330292188488345744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_33
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4228ba4f8b166a0800000000000000
+      internalID: -6457677029683616600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6723c8af58f9c5130800000000000000
+      internalID: 3556893203498807926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1999
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fefb24166facaa0800000000000000
+      internalID: -6139824244374114474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_36
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1969
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816be06d7b393fd40800000000000000
+      internalID: 5616995578040727064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1645
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974738300bc163570800000000000000
+      internalID: 8445969693478712441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_38
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1764
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95016f1a7c0dec140800000000000000
+      internalID: 4741957013502038105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_39
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1789
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4a6cb84e04e05b0800000000000000
+      internalID: -5400307552828873546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_40
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1764
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5107689bac92c2ef0800000000000000
+      internalID: -131684338427858923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_41
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1789
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e986933f7a147990800000000000000
+      internalID: -7389251954979468823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_42
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1796
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d4009ea276da810800000000000000
+      internalID: 1778190861876612467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_43
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1707
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42187beed7987c80800000000000000
+      internalID: -8324736927505313204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_44
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1744
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b85a43407d566330800000000000000
+      internalID: 3703750480305477815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_45
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1707
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d8f06449ddc85a0800000000000000
+      internalID: -6517590931811627656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_46
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1744
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d59a658c89a2c2e0800000000000000
+      internalID: -2106935254657100332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_47
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1646
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282361e4d9111d5e0800000000000000
+      internalID: -1886707401573911934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_48
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1677
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a121721e00b4bdb90800000000000000
+      internalID: -7216091510781570534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_49
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1646
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f95b5dae08bb590800000000000000
+      internalID: -7657384995317244106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_50
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1677
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261f92c14d1b52500800000000000000
+      internalID: 370898068891627874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_51
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1561
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318f1dccbcd784170800000000000000
+      internalID: 8162912638877169683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_52
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1313
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bea3980629c6140800000000000000
+      internalID: 4714303853266922268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_53
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 1561
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfe64b9b98151240800000000000000
+      internalID: 4761739237618282425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_54
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1313
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5516e0531dfd84090800000000000000
+      internalID: -8049938244293467819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_55
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1485
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630e0cd075ceb2ff0800000000000000
+      internalID: -59694311402315722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_56
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1510
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bb815c699472730800000000000000
+      internalID: 3974226108078406480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_57
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1427
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f61e3644d70b3560800000000000000
+      internalID: 7294432629749585650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_58
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1465
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b499d006c00b400800000000000000
+      internalID: 337783578737331030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_59
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1367
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd01019dc7b88a10800000000000000
+      internalID: 1911980135347719608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1398
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cf0f34ff8cd8ab0800000000000000
+      internalID: -5004122612256670685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_61
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1368
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d84e124d1128d5d0800000000000000
+      internalID: -3037641539114350376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1044
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb34ea35d825dc210800000000000000
+      internalID: 1354829829856183228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_63
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1163
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296b84504000e4650800000000000000
+      internalID: 6218908152713754258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_64
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1188
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75529983f91f98ce0800000000000000
+      internalID: -1402324142797544105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_65
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1163
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9712525ba918dd0800000000000000
+      internalID: -2485535416529094152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_66
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1188
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b39ec2686a8fa310800000000000000
+      internalID: 1418504588583932857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_67
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1195
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46104be2d56c0f890800000000000000
+      internalID: -7426217682016140956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_68
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1106
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48cdc81f69ca3d70800000000000000
+      internalID: 9023746282384902218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_69
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1143
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b9aab00010e50f0800000000000000
+      internalID: -1126461757088687307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_70
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1106
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e5370783ce68730800000000000000
+      internalID: 4001145046114197137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_71
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1143
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c72a2e631598dec0800000000000000
+      internalID: -3541917196241721407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_72
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1045
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87a5395cbf37bad0800000000000000
+      internalID: -2686608574520121462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_73
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1076
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33531f263a25469d0800000000000000
+      internalID: -2782007808115002061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_74
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1045
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c055e949373a4ad50800000000000000
+      internalID: 6747697858517816588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_75
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1076
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe22fb49b03581730800000000000000
+      internalID: 3970014380732392175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_76
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 960
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06303f91493bbd600800000000000000
+      internalID: 494186032799089504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_77
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 712
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676020946bb15c8c0800000000000000
+      internalID: -3979744225989097866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_78
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 960
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befd5fc4931e7c380800000000000000
+      internalID: -8950938098155003925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_79
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 712
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687000793b8ab0e60800000000000000
+      internalID: 7929617058201864070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_80
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 884
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b1226c99dc7ead0800000000000000
+      internalID: -2672941793483285649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_81
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 909
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235f713da77d83b50800000000000000
+      internalID: 6573240578674783538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_82
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 826
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1bfb6fccccc0c40800000000000000
+      internalID: 5479980027288203691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_83
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 864
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979aabb7097a16900800000000000000
+      internalID: 676005658075244921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_84
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 766
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64735c2db8b579160800000000000000
+      internalID: 7032189999257040710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_85
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 797
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb02954d5a81a3340800000000000000
+      internalID: 4844211449701671102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_86
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 767
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19a319abdca740a0800000000000000
+      internalID: -6897354244860172001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_87
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 443
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64aaf696df39e040800000000000000
+      internalID: 4677339878889530476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_88
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 562
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323ed215ee39b0c20800000000000000
+      internalID: 3173793014186107683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_89
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 587
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aa7b930a9595e10800000000000000
+      internalID: 2186877638763063911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_90
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 562
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e3082ad6181c6f0800000000000000
+      internalID: -666108961996390820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_91
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 587
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4bd0905b1995ee0800000000000000
+      internalID: -1271825213028453170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_92
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 594
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c181b58e0b74440800000000000000
+      internalID: 4920095629932764243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_93
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 505
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22410f9aef63a7600800000000000000
+      internalID: 466745978786944034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_94
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 542
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5f984f4674eab00800000000000000
+      internalID: 841688679289845158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_95
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 505
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e2784022c36aa80800000000000000
+      internalID: -8456005133539004837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_96
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 542
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89f9eed0dc320a50800000000000000
+      internalID: 6485813281157675403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_97
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 444
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833df7e42abe55920800000000000000
+      internalID: 2978545810909680440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_98
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 475
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b391e65cc32ec1c0800000000000000
+      internalID: -4481605218649140298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_99
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 444
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d062dab8084ecad0800000000000000
+      internalID: -2680125525907578668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_100
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 475
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167a5da078860fa30800000000000000
+      internalID: 4247009377822025569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_101
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb4bcec72eb74a00800000000000000
+      internalID: 740769741908167611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_102
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74d1855f96fdd9b0800000000000000
+      internalID: -5053612042645023619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_103
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc22bd4c9837b010800000000000000
+      internalID: 1204493669314473170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_104
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a429f2f4e0735de60800000000000000
+      internalID: 7986350048809030218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_105
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8301a7eb5e7a1c30800000000000000
+      internalID: 4330912924863366029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_106
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30662abc2790f3850800000000000000
+      internalID: 6358811587517769219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_107
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28adff4cc61df6b70800000000000000
+      internalID: 8894558054171794050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_108
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 308
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c3061d611531c70800000000000000
+      internalID: 8940578843704442007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_109
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb14f91a43d185960800000000000000
+      internalID: 7590849283820044734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_110
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0210013ce6ba520800000000000000
+      internalID: 2714384984487043264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_111
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ec5bcee1c43a4c0800000000000000
+      internalID: -4277491525367771565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_112
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e0f5c4890a15630800000000000000
+      internalID: 3914086127138442907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_113
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 166
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff36f116dfbd2630800000000000000
+      internalID: 3903987378145345531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_114
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efc191772a607da0800000000000000
+      internalID: -5949138390114775063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_115
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e83c6f369a5e1ee0800000000000000
+      internalID: -1288492842025731865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_116
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e18d2e472752c20800000000000000
+      internalID: 3181074558154710607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_117
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a2fc7c7d5c6e3f0800000000000000
+      internalID: -871791947288728958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_118
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2775be1265838ce40800000000000000
+      internalID: 5676849272887924594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_119
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073e7f5c47740b390800000000000000
+      internalID: -7804659587369933968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_120
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52794264f4b4e4090800000000000000
+      internalID: -8048412680213194971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_121
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67adc10ac1f6318a0800000000000000
+      internalID: -6335598082044142986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_122
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee353cb5c7fd1ab0800000000000000
+      internalID: -5035596379692122393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_0: -2253744092341555199
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_1: 4218532045593107354
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_10: -5461710606514963293
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_100: 4247009377822025569
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_101: 740769741908167611
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_102: -5053612042645023619
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_103: 1204493669314473170
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_104: 7986350048809030218
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_105: 4330912924863366029
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_106: 6358811587517769219
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_107: 8894558054171794050
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_108: 8940578843704442007
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_109: 7590849283820044734
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_11: -69548232659444534
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_110: 2714384984487043264
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_111: -4277491525367771565
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_112: 3914086127138442907
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_113: 3903987378145345531
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_114: -5949138390114775063
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_115: -1288492842025731865
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_116: 3181074558154710607
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_117: -871791947288728958
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_118: 5676849272887924594
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_119: -7804659587369933968
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_12: -6628855239048642504
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_120: -8048412680213194971
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_121: -6335598082044142986
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_122: -5035596379692122393
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_13: -910251783807256391
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_14: -1826907857828682936
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_15: 6855447763277221842
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_16: -5333824987082374834
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_17: -2212822020536202866
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_18: 8369332318822637157
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_19: 9069720930176001323
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_2: 2901304687721229030
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_20: 1736292529185567055
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_21: 4480779866951291128
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_22: -4214964038047553005
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_23: 3742688325199300303
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_24: 1438174950841443364
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_25: -6644703073532110774
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_26: -307562460696848053
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_27: -688597101604858160
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_28: -1994308368704955793
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_29: -468086830640429377
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_3: -6425632427794836191
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_30: 881131244272434537
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_31: 8220117643300653038
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_32: -8330292188488345744
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_33: -6457677029683616600
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_34: 3556893203498807926
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_35: -6139824244374114474
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_36: 5616995578040727064
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_37: 8445969693478712441
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_38: 4741957013502038105
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_39: -5400307552828873546
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_4: 6667790603875123607
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_40: -131684338427858923
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_41: -7389251954979468823
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_42: 1778190861876612467
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_43: -8324736927505313204
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_44: 3703750480305477815
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_45: -6517590931811627656
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_46: -2106935254657100332
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_47: -1886707401573911934
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_48: -7216091510781570534
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_49: -7657384995317244106
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_5: -5287629384657290670
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_50: 370898068891627874
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_51: 8162912638877169683
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_52: 4714303853266922268
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_53: 4761739237618282425
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_54: -8049938244293467819
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_55: -59694311402315722
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_56: 3974226108078406480
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_57: 7294432629749585650
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_58: 337783578737331030
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_59: 1911980135347719608
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_6: 8741392233316658737
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_60: -5004122612256670685
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_61: -3037641539114350376
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_62: 1354829829856183228
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_63: 6218908152713754258
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_64: -1402324142797544105
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_65: -2485535416529094152
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_66: 1418504588583932857
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_67: -7426217682016140956
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_68: 9023746282384902218
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_69: -1126461757088687307
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_7: 3250480326803955093
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_70: 4001145046114197137
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_71: -3541917196241721407
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_72: -2686608574520121462
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_73: -2782007808115002061
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_74: 6747697858517816588
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_75: 3970014380732392175
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_76: 494186032799089504
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_77: -3979744225989097866
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_78: -8950938098155003925
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_79: 7929617058201864070
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_8: -4650949097799738509
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_80: -2672941793483285649
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_81: 6573240578674783538
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_82: 5479980027288203691
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_83: 676005658075244921
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_84: 7032189999257040710
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_85: 4844211449701671102
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_86: -6897354244860172001
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_87: 4677339878889530476
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_88: 3173793014186107683
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_89: 2186877638763063911
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_9: 5375457381910253815
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_90: -666108961996390820
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_91: -1271825213028453170
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_92: 4920095629932764243
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_93: 466745978786944034
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_94: 841688679289845158
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_95: -8456005133539004837
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_96: 6485813281157675403
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_97: 2978545810909680440
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_98: -4481605218649140298
+      pngtree-realistic-3d-medieval-knight-sword-on-transparent-background-png-image_17413881_99: -2680125525907578668
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

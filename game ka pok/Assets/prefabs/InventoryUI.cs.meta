@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e910a32d91698c048a5f5262c690c98e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inventory: {fileID: 5201846919393963249, guid: 8a178b62f4c8d0a4b9875f91689ccaf2, type: 3}
+  - slotParent: {fileID: 2529889808882711239, guid: d071dc113ead2d340b6dc4bb3a54505b, type: 3}
+  - slotPrefab: {fileID: 4508586008437029084, guid: fedeb916ec14c01428073636d325787f, type: 3}
+  - inventoryPanel: {fileID: 6334628546445601137, guid: d071dc113ead2d340b6dc4bb3a54505b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
