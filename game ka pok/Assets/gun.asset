@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b83a419318a158b408ecd6191b764b78, type: 3}
   m_Name: gun
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  itemName: 
-  icon: {fileID: 0}
-  description: 
+  itemName: gun
+  icon: {fileID: -4503359926374289490, guid: f3939446cd92e42438c344bd0f7ef315, type: 3}
+  description: gun for shoot alien !!!!!!!!!!!
   isStackable: 1
   maxStackAmount: 99

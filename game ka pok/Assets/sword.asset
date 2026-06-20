@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b83a419318a158b408ecd6191b764b78, type: 3}
   m_Name: sword
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  itemName: 
-  icon: {fileID: -2253744092341555199, guid: 7ce6f665933cf6b4685c2a97856fbab4, type: 3}
+  itemName: sword
+  icon: {fileID: -8239038282896412961, guid: 28a17e8c5a75d3345b0d08861c462f60, type: 3}
   description: 
   isStackable: 1
   maxStackAmount: 99
