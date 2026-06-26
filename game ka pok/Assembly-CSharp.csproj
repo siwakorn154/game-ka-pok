@@ -51,15 +51,20 @@
     <Compile Include="Assets\prefabs\SlotUI.cs" />
     <Compile Include="Assets\scripts\DebugMovement.cs" />
     <Compile Include="Assets\scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\scripts\PlayerCombat.cs" />
     <Compile Include="Assets\prefabs\InventoryUI.cs" />
     <Compile Include="Assets\scripts\Hotbar.cs" />
     <Compile Include="Assets\scripts\InventorySlot.cs" />
     <Compile Include="Assets\scripts\ItemDetailPanel.cs" />
     <Compile Include="Assets\scripts\ItemData.cs" />
     <Compile Include="Assets\scripts\TestClick.cs" />
+    <Compile Include="Assets\scripts\SwordAction.cs" />
+    <Compile Include="Assets\scripts\PlayerAnimator.cs" />
+    <Compile Include="Assets\scripts\ItemAction.cs" />
     <Compile Include="Assets\scripts\HotbarSlotUI.cs" />
     <Compile Include="Assets\scripts\Inventory.cs" />
     <Compile Include="Assets\scripts\CameraFollow.cs" />
+    <Compile Include="Assets\scripts\PlayerContext.cs" />
     <Compile Include="Assets\scripts\ItemPickup.cs" />
     <Compile Include="Assets\scripts\HotbarUI.cs" />
   </ItemGroup>

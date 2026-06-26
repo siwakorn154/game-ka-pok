@@ -26,9 +26,9 @@ public class InventoryUI : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.B))
+        if (Input.GetKeyDown(KeyCode.E))
         {
-            Debug.Log("กด B แล้ว!");
+            Debug.Log("กด E แล้ว!");
             bool isOpen = !inventoryPanel.activeSelf;
             inventoryPanel.SetActive(isOpen);
             if (isOpen) UpdateUI();

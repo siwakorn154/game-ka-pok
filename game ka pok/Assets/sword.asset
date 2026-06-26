@@ -17,3 +17,7 @@ MonoBehaviour:
   description: 
   isStackable: 1
   maxStackAmount: 99
+  isWeapon: 1
+  playerHoldSprite: {fileID: -3061894301509806543, guid: eaa575e9fa13c0745976682f82157c6e, type: 3}
+  attackDamage: 10
+  attackCooldown: 0.4
